@@ -1,2 +1,2 @@
 # combee-march-2019
-slides for combee presentation of March 8, 2019 @3pm
+presentation slides for Combee meeting, March 8, 2019
